@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(224, 220, 220);
+display: grid;
+justify-content: center;
+align-items: center;
+transform: translate(-50px 50px);
+}
+.button-div button{
+  display: inline-block;
+  margin: 10px 10px 0px 0px;
+}
